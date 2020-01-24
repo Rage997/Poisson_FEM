@@ -7,7 +7,11 @@ The repository contains the code to solve the poisson equation with finite eleme
 
 To run the code, run square.m and swissflag.m respectively for the unit square and swissflag domains
  
-
+### Solution on the unitsquare domain
 ![Solving the Poisson Equation on the swiss flag](https://raw.githubusercontent.com/Rage997/Poisson_FEM/master/images/unit_square.png)
 
-![Solving the Poisson Equation on the swiss flag](https://raw.githubusercontent.com/Rage997/Poisson_FEM/master/images/poisson_swissflag2.png)
+
+### Solution on the swissflag domain
+![Solving the Poisson Equation on the swiss flag](https://raw.githubusercontent.com/Rage997/Poisson_FEM/master/images/poisson_swissflag.png)
+
+
