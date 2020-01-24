@@ -10,4 +10,4 @@ To run the code, run square.m and swissflag.m respectively for the unit square a
 
 ![Solving the Poisson Equation on the swiss flag](https://raw.githubusercontent.com/Rage997/Poisson_FEM/master/images/unit_square.png)
 
-![Solving the Poisson Equation on the swiss flag](https://raw.githubusercontent.com/Rage997/Poisson_FEM/master/images/poisson_swissflag.png)
+![Solving the Poisson Equation on the swiss flag](https://raw.githubusercontent.com/Rage997/Poisson_FEM/master/images/poisson_swissflag2.png)
